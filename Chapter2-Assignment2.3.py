@@ -16,3 +16,4 @@ print(f"Pay: {pay}")
 
 Your Output
 Pay: 96.25
+  
